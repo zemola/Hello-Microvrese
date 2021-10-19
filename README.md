@@ -2,7 +2,7 @@ Set up a "Hello Microverse" project
 
 > This project is to set up a repository in other to master all of the tools and best practices what is learnt so far at Microvers.
 
-![screenshot](./S![Screenshot ](/image/Screenshot.png)Screenshot.png)
+![screenshot](./S![Screenshot ](/image/Screenshot.PNG)Screenshot.png)
 
 
 
