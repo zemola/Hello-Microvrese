@@ -6,15 +6,11 @@ Set up a "Hello Microverse" project
 
 ![screenshot](./S![Screenshot ](/image/Screenshot.PNG)Screenshot.png)
 
-
-
 ## Built With
 
 - HTML
 - CSS
 - Technologies used
-
-
 
 ## Author
 
@@ -37,5 +33,4 @@ Give a ⭐ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
 
